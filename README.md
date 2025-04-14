@@ -19,6 +19,7 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 🚀 Current Work
@@ -33,7 +34,7 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 
 ## 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1fifly&show_icons=true&theme=transparent&hide_border=true&title_color=transparent&text_color=94a3b8&icon_color=60a5fa" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=1fifly&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=94a3b8&icon_color=60a5fa" alt="GitHub Stats">
 </p>
 
 ---
