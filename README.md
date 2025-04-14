@@ -37,11 +37,9 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 ---
 
 ## 📬 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-2D3748?logo=linkedin&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="LinkedIn"></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-2D3748?logo=x&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="Twitter/X"></a>
-  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-2D3748?logo=leetcode&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="LeetCode"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-2D3748?logo=firefox&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="Portfolio"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 
 ---
