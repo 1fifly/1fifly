@@ -7,7 +7,7 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white&height=40" alt="C#">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white&height=80" alt="C#">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&height=40" alt="JavaScript">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&height=40" alt="TypeScript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB&height=40" alt="React">
