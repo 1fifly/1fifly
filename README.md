@@ -5,28 +5,28 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 
 ---
 
-## 🛠️ Tech I Work With
+## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white&height=30" alt="C#">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&height=30" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&height=30" alt="TypeScript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB&height=30" alt="React">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white&height=30" alt="NodeJS">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&height=30" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&height=30" alt="CSS3">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white&height=30" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&height=30" alt="Figma">
 </p>
 
 ---
 
-## 🌟 What I'm Building
+## 🚀 Current Work
 - **[Session Tracker](https://github.com/1fifly/session-tracker)**  
-  A sleek desktop app for effortless session management, streamlining workflows with a minimalist UI.
+  Building a **lightweight desktop app** for real-time session management. Features include tracking and a distraction-free interface to boost productivity.
 - **[Session Tracker Landing Page](https://github.com/1fifly/session-tracker-landing)**  
-  Designing a modern, responsive landing page to showcase the app with style and clarity.
+  Crafting a **visually striking landing page**. It’s designed to highlight the app’s core features through smooth scrolling and a modern aesthetic.
 - **[3D Album Store](https://github.com/1fifly/3d-album-store)**  
-  An interactive web platform displaying albums in a stunning 3D environment, blending creativity and tech.
+  Developing an **immersive e-commerce platform** powered by Three.js, showcasing albums in a dynamic 3D gallery. Users can explore, preview tracks, and purchase with a fluid, gamified interface.
 
 ---
 
@@ -40,10 +40,10 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 
 ## 📬 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" alt="Twitter/X"></a>
-  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&height=30" alt="LinkedIn"></a>
+  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white&height=30" alt="Twitter/X"></a>
+  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06&height=30" alt="LeetCode"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139&height=30" alt="Portfolio"></a>
 </p>
 
 ---
