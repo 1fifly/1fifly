@@ -6,17 +6,15 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-2D3748?logo=csharp&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-2D3748?logo=javascript&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-2D3748?logo=typescript&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-2D3748?logo=react&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-2D3748?logo=node.js&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="NodeJS">
-  <img src="https://img.shields.io/badge/HTML5-2D3748?logo=html5&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-2D3748?logo=css3&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2D3748?logo=tailwind-css&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Figma-2D3748?logo=figma&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="Figma">
-</p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
