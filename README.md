@@ -7,15 +7,15 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&height=40" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&height=40" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB&height=40" alt="React">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white&height=40" alt="NodeJS">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&height=40" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&height=40" alt="CSS3">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white&height=40" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&height=40" alt="Figma">
+  <img src="https://img.shields.io/badge/C%23-2D3748?logo=csharp&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="C#">
+  <img src="https://img.shields.io/badge/JavaScript-2D3748?logo=javascript&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-2D3748?logo=typescript&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-2D3748?logo=react&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-2D3748?logo=node.js&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="NodeJS">
+  <img src="https://img.shields.io/badge/HTML5-2D3748?logo=html5&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-2D3748?logo=css3&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2D3748?logo=tailwind-css&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Figma-2D3748?logo=figma&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="Figma">
 </p>
 
 ---
@@ -40,10 +40,10 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 
 ## 📬 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&height=40" alt="LinkedIn"></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white&height=40" alt="Twitter/X"></a>
-  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06&height=40" alt="LeetCode"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139&height=40" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-2D3748?logo=linkedin&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="LinkedIn"></a>
+  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-2D3748?logo=x&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="Twitter/X"></a>
+  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-2D3748?logo=leetcode&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="LeetCode"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-2D3748?logo=firefox&logoColor=fff&style=flat-square&labelColor=2D3748&color=A3BFFA&height=40" alt="Portfolio"></a>
 </p>
 
 ---
