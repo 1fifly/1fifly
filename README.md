@@ -34,7 +34,6 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 ## 📊 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=1fifly&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=94a3b8&icon_color=60a5fa" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1fifly&theme=transparent&hide_border=true&title_color=ffffff&text_color=94a3b8&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" alt="GitHub Streak">
 </p>
 
 ---
