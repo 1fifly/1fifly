@@ -23,7 +23,7 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
 ---
 
 ## 🚀 Current Work
-- **[Session Tracker](https://github.com/1fifly/session-tracker)**  
+- **[Session Tracker](https://github.com/1fifly/session-tracker-app)**  
   Building a **lightweight desktop app** for real-time session management. Features include automated tracking and a distraction-free interface to boost productivity.
 - **[Session Tracker Landing Page](https://github.com/1fifly/session-tracker-landing)**  
   Crafting a **visually striking landing page** with smooth scrolling and a modern aesthetic to highlight the app’s core features.
