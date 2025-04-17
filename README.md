@@ -27,7 +27,7 @@ I'm a passionate developer crafting **minimalist, modern applications** that ble
   Building a **lightweight desktop app** for real-time session management. Features include automated tracking and a distraction-free interface to boost productivity.
 - **[Session Tracker Landing Page](https://github.com/1fifly/session-tracker-landing)**  
   Crafting a **visually striking landing page** with smooth scrolling and a modern aesthetic to highlight the app’s core features.
-- **[3D Album Store](https://github.com/1fifly/3d-album-store)**  
+- **[3D Album Store](https://github.com/1fifly/3d_album_store_school)**  
   Developing an **immersive web platform** for a school project, powered by Three.js. It showcases albums in a dynamic 3D gallery where users can explore, preview tracks, and interact with a fluid, gamified interface.
 
 ---
